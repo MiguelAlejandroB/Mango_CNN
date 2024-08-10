@@ -1,0 +1,5 @@
+# Ignorar el directorio .idea (configuración de IDE)
+.idea/
+
+# Ignorar el directorio venv (entorno virtual de Python)
+venv/
